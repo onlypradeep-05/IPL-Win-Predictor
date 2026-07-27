@@ -109,7 +109,6 @@ The trained classification model predicts the probability of:
 |------|----------------------|
 | Mumbai Indians | 72% |
 | Chennai Super Kings | 28% |
-> **Note:** Evaluation metrics (Accuracy, Precision, Recall, F1-score, ROC-AUC) are not included because they were not available in the provided project files.
 ## 🖼️ Application Preview
 ---
 ### Home Page
